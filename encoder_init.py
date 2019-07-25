@@ -1,4 +1,5 @@
 import bitfile
+import numpy as np
 
 global EOF
 global PRECISION
